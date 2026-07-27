@@ -4,12 +4,19 @@
 Email Me 👉 ✉️ **amitgotad953@gmaiail.com** For Collaboration/Project or Anything Else. 😊😊
 
 -🔭 I’m currently working on: Final year Major Project.
--🌱 I’m currently learning: Data Analytics, Machine Learning, Power BI, Python
--👯 I’m looking to collaborate on: AI, IoT, and Data Analytics Projects
--🤔 I’m looking for help with: Machine Learning Roadmap and Advanced Python
--💬 Ask me about: Data Analytics, Power BI, Excel, Python
+
+-🌱 I’m currently learning: Data Analytics, Machine Learning, Power BI, Python.
+
+-👯 I’m looking to collaborate on: AI, IoT, and Data Analytics Projects.
+
+-🤔 I’m looking for help with: Machine Learning Roadmap and Advanced Python.
+
+-💬 Ask me about: Data Analytics, Power BI, Excel, Python.
+
 -📫 How to reach me: amitgotad953@gmail.com
+
 -😄 Pronouns: He/Him
+
 -⚡ Fun fact: I enjoy turning data into meaningful insights and building real-world projects.
 
 <!-- Snake Game Repo View -->
