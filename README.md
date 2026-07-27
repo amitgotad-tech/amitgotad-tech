@@ -3,20 +3,20 @@
 
 Email Me 👉 ✉️ **amitgotad953@gmaiail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-🔭 I’m currently working on: Final year Major Project.
+-🌱 I’m currently learning: Data Analytics, Machine Learning, Power BI, Python
+-👯 I’m looking to collaborate on: AI, IoT, and Data Analytics Projects
+-🤔 I’m looking for help with: Machine Learning Roadmap and Advanced Python
+-💬 Ask me about: Data Analytics, Power BI, Excel, Python
+-📫 How to reach me: amitgotad953@gmail.com
+-😄 Pronouns: He/Him
+-⚡ Fun fact: I enjoy turning data into meaningful insights and building real-world projects.
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div
+</d
 
   
 ## 🌐 Socials:
